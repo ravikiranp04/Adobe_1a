@@ -1,4 +1,4 @@
-# PDF Heading Extractor
+# 1A) Understand Your Document (PDF Heading Extractor)
 
 
 ## Approach
