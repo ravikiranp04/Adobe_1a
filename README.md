@@ -1,8 +1,5 @@
 # PDF Heading Extractor
 
-Here’s a more detailed and polished version of the **Approach** section for your `README.md`, clearly describing the method used to extract headings from PDFs:
-
----
 
 ## Approach
 
